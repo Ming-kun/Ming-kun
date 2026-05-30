@@ -7,4 +7,4 @@ IoT / Smart Home BD by day. Building AI agent infrastructure by way of solving m
 - 📝 Writing: [LinkedIn](https://www.linkedin.com/in/mingkunzheng/)
 - 🌏 Based in Shenzhen, working globally
 
-📌 **Pinned**: → see [`solo-agent-ops`](https://github.com/Ming-kun/solo-agent-ops) (currently private; goes public Saturday)
+📌 **Pinned**: → [`solo-agent-ops`](https://github.com/Ming-kun/solo-agent-ops) — multi-agent governance for solo operators (MIT)
